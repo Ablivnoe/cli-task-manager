@@ -1,7 +1,7 @@
 # Task Tracker CLI
 The project page URL: https://roadmap.sh/projects/task-tracker
 
-A command-line task manager built in Java that lets you add, update, delete, and track the status of your tasks. All tasks are saved to a local `tasks.txt` file and persist between sessions.
+A command-line task tracker built in Java that lets you add, update, delete, and track the status of your tasks. All tasks are saved to a local `tasks.json` file and persist between sessions.
 
 ---
 
