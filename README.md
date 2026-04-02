@@ -119,7 +119,7 @@ java Main list done
 
 ## Data Storage
 
-Tasks are saved in a `tasks.txt` file in the directory where you run the program. Each line represents one task in the following format:
+Tasks are saved in a `tasks.json` file in the directory where you run the program. Each line represents one task in the following format:
 
 ```
 id|description|status|createdAt|updatedAt
